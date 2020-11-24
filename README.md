@@ -64,29 +64,24 @@ Requirements: Python, Jupyter Notebooks
   * FIFA Players (Cleaned)
   
 ### Source notebook descriptions
-* SoccerScientists_Argentina.ipynb
-  * pladceholder
-* SoccerScientists_Brazil.ipynb
+* SoccerScientists_Cleaning.ipynb
+  * The initial notebook used to manipulate the different columns of data to transform it into useable values
+* SoccerScientists_DataAnalysis.ipynb
+  * SoccerScientists_Argentina.ipynb
+  * SoccerScientists_Brazil.ipynb
+  * SoccerScientists_Italy.ipynb
+  * SoccerScientists_Germany.ipynb
+  * SoccerScientists_Spain.ipynb
+   * These notebooks were used to illustrate the graphical analysis and correlation between different attributes
+* SoccerScientists_PCA.ipynb
   * pladceholder
 * SoccerScientists_Classification.ipynb
   * pladceholder
-* SoccerScientists_Cleaning.ipynb 
-  * pladceholder
-* SoccerScientists_Clustering.ipynb
-  * pladceholder
-* SoccerScientists_DataAnalysis.ipynb
-  * pladceholder
-* SoccerScientists_Germany.ipynb
-  * pladceholder
-* SoccerScientists_Italy.ipynb
-  * pladceholder
-* SoccerScientists_PCA.ipynb
-  * pladceholder
 * SoccerScientists_Regression.ipynb
   * pladceholder
-* SoccerScientists_Spain.ipynb
-  * pladceholder
 * SoccerScientists_Yearly.ipynb
+  * pladceholder
+* SoccerScientists_Clustering.ipynb
   * pladceholder
 
 
