@@ -20,49 +20,7 @@ Requirements: Python, Jupyter Notebooks
   * The list of sources from which our information was procured
 * Src
   * Location of the notebooks featured throughout the presentation
-  
-### Dataset descriptions
-* 2015-2016.csv
-  * FIFA data from 2015-2016
-* 2016-2017.csv
-  * FIFA data from 2016-2017
-* 2017-2018.csv
-  * FIFA data from 2017-2018
-* 2018-2019.csv
-  * FIFA data from 2018-2019
-* Argentina.csv
-  * Argentine FIFA Players only
-* Argentina_cleaned.csv
-  * Argentine FIFA Players only (Cleaned)
-* Brazil.csv
-  * Brazilian FIFA Players only
-* Brazil_cleaned.csv
-  * Brazilian FIFA Players only (cleaned)
-* England_validation_cleaned.csv
-  * English FIFA Players only
-* Fifa18.csv
-  * 2018 FIFA Players
-* Fifa19.csv
-  * 2019 FIFA Players
-* Fifa19_Cleaned.csv
-  * 2019 FIFA Players (cleaned)
-* Germany.csv
-  * German FIFA Players only
-* Germany_cleaned.csv
-  * German FIFA Players only (cleaned)
-* Italy.csv
-  * Italian FIFA Players only
-* Italy_cleaned.csv
-  * Italian FIFA Players only (cleaned)
-* Spain.csv
-  * Spanish FIFA Players only
-* Spain_cleaned.csv
-  * Spanish FIFA Players only (cleaned)
-* csv players_brazil_15_20_v1 - merged_players.csv
-  * Brazilian FIFA Players from 2015-2019
-* fifa_cleaned.csv
-  * FIFA Players (Cleaned)
-  
+
 ### Source notebook descriptions
 * SoccerScientists_Cleaning.ipynb
   * The initial notebook used to manipulate the different columns of data to transform it into useable values
