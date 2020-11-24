@@ -6,9 +6,9 @@ In this project we use data analysis to extrapolate ideas from FIFA datasets and
 Requirements: Python, Jupyter Notebooks
 
 ### Members:
-* Brian Clark,
-* Pallavi Pai,
-* Saharsh Gupta,
+* Brian Clark
+* Pallavi Pai
+* Saharsh Gupta
 * Eric Seitz
 
 ### Folder Layout
