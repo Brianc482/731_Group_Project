@@ -73,8 +73,9 @@ Requirements: Python, Jupyter Notebooks
   * SoccerScientists_Germany.ipynb
   * SoccerScientists_Spain.ipynb
    * These notebooks were used to illustrate the graphical analysis and correlation between different attributes
+   * SoccerScientists_Germany also contains the additional fine tuning that was applied to Random Forest Regression
 * SoccerScientists_PCA.ipynb
-  * The notebook used to select the number of relevant features from the overall data ser
+  * The notebook used to select the number of relevant features from the overall data set
 * SoccerScientists_Regression.ipynb
   * A notebook depicting our application of machine learning models on multiple data sets
 * SoccerScientists_Classification.ipynb
