@@ -3,13 +3,15 @@
 Exploring the science of soccer!
 In this project we use data analysis to extrapolate ideas from FIFA datasets and predict scores and positions, among other things.
 
-Members:
+Requirements: Python, Jupyter Notebooks
+
+### Members:
 * Brian Clark,
 * Pallavi Pai,
 * Saharsh Gupta,
 * Eric Seitz
 
-Folder Layout
+### Folder Layout
 * Data 
   * This is where our datasets are stored, both "raw" and edited for our needs
 * Presentation
@@ -18,5 +20,73 @@ Folder Layout
   * A document referencing where we got information, templates, data, etc
 * src
   * This is where our Pandas Jupyter Notebooks are and where our graphs and chart from the presentation came from
+  
+### Dataset descriptions
+* 2015-2016.csv
+  * FIFA data from 2015-2016
+* 2016-2017.csv
+  * FIFA data from 2016-2017
+* 2017-2018.csv
+  * FIFA data from 2017-2018
+* 2018-2019.csv
+  * FIFA data from 2018-2019
+* Argentina.csv
+  * Argentine FIFA Players only
+* Argentina_cleaned.csv
+  * Argentine FIFA Players only (Cleaned)
+* Brazil.csv
+  * Brazilian FIFA Players only
+* Brazil_cleaned.csv
+  * Brazilian FIFA Players only (cleaned)
+* England_validation_cleaned.csv
+  * English FIFA Players only
+* Fifa18.csv
+  * 2018 FIFA Players
+* Fifa19.csv
+  * 2019 FIFA Players
+* Fifa19_Cleaned.csv
+  * 2019 FIFA Players (cleaned)
+* Germany.csv
+  * German FIFA Players only
+* Germany_cleaned.csv
+  * German FIFA Players only (cleaned)
+* Italy.csv
+  * Italian FIFA Players only
+* Italy_cleaned.csv
+  * Italian FIFA Players only (cleaned)
+* Spain.csv
+  * Spanish FIFA Players only
+* Spain_cleaned.csv
+  * Spanish FIFA Players only (cleaned)
+* csv players_brazil_15_20_v1 - merged_players.csv
+  * Brazilian FIFA Players from 2015-2019
+* fifa_cleaned.csv
+  * FIFA Players (Cleaned)
+  
+### Source notebook descriptions
+* SoccerScientists_Argentina.ipynb
+  * pladceholder
+* SoccerScientists_Brazil.ipynb
+  * pladceholder
+* SoccerScientists_Classification.ipynb
+  * pladceholder
+* SoccerScientists_Cleaning.ipynb 
+  * pladceholder
+* SoccerScientists_Clustering.ipynb
+  * pladceholder
+* SoccerScientists_DataAnalysis.ipynb
+  * pladceholder
+* SoccerScientists_Germany.ipynb
+  * pladceholder
+* SoccerScientists_Italy.ipynb
+  * pladceholder
+* SoccerScientists_PCA.ipynb
+  * pladceholder
+* SoccerScientists_Regression.ipynb
+  * pladceholder
+* SoccerScientists_Spain.ipynb
+  * pladceholder
+* SoccerScientists_Yearly.ipynb
+  * pladceholder
 
-Requirements: Python, Jupyter Notebooks
+
