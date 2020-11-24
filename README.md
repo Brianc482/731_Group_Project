@@ -80,7 +80,7 @@ Requirements: Python, Jupyter Notebooks
 * SoccerScientists_Regression.ipynb
   * pladceholder
 * SoccerScientists_Yearly.ipynb
-  * pladceholder
+  * This notebook used the "brazil_15_20" dataset for some graphics, such as correlation coefficient and predicting player positions
 * SoccerScientists_Clustering.ipynb
   * pladceholder
 
