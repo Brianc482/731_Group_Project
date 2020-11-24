@@ -13,13 +13,13 @@ Requirements: Python, Jupyter Notebooks
 
 ### Folder Layout
 * Data 
-  * This is where our datasets are stored, both "raw" and edited for our needs
+  * The location of the datasets to be used, both "raw" and edited 
 * Presentation
-  * This is where the pdf of our presentation is
+  * The location of the PowerPoint slides that were used during live presentation
 * References
-  * A document referencing where we got information, templates, data, etc
-* src
-  * This is where our Pandas Jupyter Notebooks are and where our graphs and chart from the presentation came from
+  * The list of sources from which our information was procured
+* Src
+  * Location of the notebooks featured throughout the presentation
   
 ### Dataset descriptions
 * 2015-2016.csv
