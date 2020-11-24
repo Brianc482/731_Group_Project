@@ -74,14 +74,14 @@ Requirements: Python, Jupyter Notebooks
   * SoccerScientists_Spain.ipynb
    * These notebooks were used to illustrate the graphical analysis and correlation between different attributes
 * SoccerScientists_PCA.ipynb
-  * pladceholder
-* SoccerScientists_Classification.ipynb
-  * pladceholder
+  * The notebook used to select the number of relevant features from the overall data ser
 * SoccerScientists_Regression.ipynb
-  * pladceholder
+  * A notebook depicting our application of machine learning models on multiple data sets
+* SoccerScientists_Classification.ipynb
+  * This notebook displays our attempt at classifying players based on their given attributes
 * SoccerScientists_Yearly.ipynb
-  * This notebook used the "brazil_15_20" dataset for some graphics, such as correlation coefficient and predicting player positions
+  * A notebook depiction our predictions of where a player would be positioned based on previous years
 * SoccerScientists_Clustering.ipynb
-  * pladceholder
+  * The notebook used to cluster all of the players from a data set into their 'simplified positions'
 
 
